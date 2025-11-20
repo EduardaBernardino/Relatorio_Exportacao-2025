@@ -5,17 +5,17 @@ Este repositório contém o dashboard Dados de Exportação 2025, desenvolvido e
 
 \* Desempenho das exportações brasileiras
 
-Principais produtos exportados
+\* Principais produtos exportados
 
-Países importadores
+\* Países importadores
 
-Variação ano/ano (2024 × 2025)
+\* Variação ano/ano (2024 × 2025)
 
-Dependência Produto × País
+\* Dependência Produto × País
 
-Tendências de valor e volume
+\* Tendências de valor e volume
 
-Competitividade entre produtos
+\* Competitividade entre produtos
 
 O trabalho foi construído utilizando dados consolidados por produto, país e setor, extraídos de fontes oficiais de comércio exterior.
 
@@ -23,14 +23,14 @@ O trabalho foi construído utilizando dados consolidados por produto, país e se
 
 O dashboard foi criado para fornecer uma visão rápida, visual e estratégica da performance das exportações brasileiras em 2025, permitindo:
 
-Identificar produtos de maior impacto econômico
+\* Identificar produtos de maior impacto econômico
 
-Avaliar mercados com maior crescimento ou retração
+\* Avaliar mercados com maior crescimento ou retração
 
-Monitorar variações de preço e tonelagem
+\* Monitorar variações de preço e tonelagem
 
-Mapear dependência comercial por país
+\* Mapear dependência comercial por país
 
-Reconhecer produtos emergentes e produtos em declínio
+\* Reconhecer produtos emergentes e produtos em declínio
 
-Visualizar tendências e oportunidades de mercado
+\* Visualizar tendências e oportunidades de mercado
